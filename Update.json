@@ -1,0 +1,12 @@
+{
+  "appName": "Your App",
+  "versionCode": 2,
+  "versionName": "1.1",
+  "description": "This update includes new features and bug fixes.",
+  "iconUrl": "https://example.com/app-icon.png",
+  "releaseDate": "2024-03-02",
+  "minSdkVersion": 21,
+  "targetSdkVersion": 30,
+  "downloadUrl": "https://example.com/app-update-v1.1.apk",
+  "isCritical": true
+}
